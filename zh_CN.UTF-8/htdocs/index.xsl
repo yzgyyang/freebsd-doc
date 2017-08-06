@@ -37,15 +37,14 @@
 
 		<div id="frontfeatureleft">
 			<div id="frontfeaturecontent">
-				<h1> &os; 项目</h1>
+				<h1>&os; 项目</h1>
 
-				<p>&os; 是一个使用于现代服务器，桌面与嵌入式 <a href="&base;/platforms/">平台</a> 的先进操作系统。
+				<p>&os; 是一个适用于现代服务器，桌面与嵌入式 <a href="&base;/platforms/">平台</a> 的先进操作系统。
 				  由一个庞大的
 				  <a
 				  href="&enbase;/doc/en_US.ISO8859-1/articles/contributors/staff-committers.html">开发人员团队</a>
 				持续开发超过三十年。
-				&os; 先进的网络、安全性和存储方面的特色使得
-				  它成为许多
+				&os; 先进的网络、安全性和存储方面的特色使得它成为许多
 				  <a href="&enbase;/doc/zh_CN.UTF-8/books/handbook/nutshell.html#introduction-nutshell-users">大型网站</a>
 			以及最普遍的嵌入式网络与存储设备的平台选择。 </p>
 
