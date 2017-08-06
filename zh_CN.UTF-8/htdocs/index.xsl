@@ -141,13 +141,13 @@
 					  <a href="&enbase;/community/mailinglists.html" title="邮件列表">邮件列表</a>
 					</li>
 					<li>
-					  <a href="&enbase;/support/bugreports.html" title="Reporting Problems">问题报告</a>
+					  <a href="&enbase;/support/bugreports.html" title="问题报告">问题报告</a>
 					</li>
 					<li>
-					  <a href="&enbase;/doc/en_US.ISO8859-1/books/faq/index.html" title="FAQ">常见问题解答</a>
+					  <a href="&enbase;/doc/en_US.ISO8859-1/books/faq/index.html" title="常见问题解答">常见问题解答</a>
 					</li>
 					<li>
-					  <a href="&enbase;/doc/zh_CN.UTF-8/books/handbook/index.html" title="Handbook">使用手册</a>
+					  <a href="&enbase;/doc/zh_CN.UTF-8/books/handbook/index.html" title="使用手册">使用手册</a>
 					</li>
 					<li>
 					  <a href="&enbase;/ports/index.html" title="Ports">Ports</a>
@@ -255,10 +255,10 @@
 			  <div>
 				<ul class="newseventslist">
 				  <li class="first-child">
-					<a href="&enbase;/security/advisories.html" title="更多安全公告">更多</a>
+					<a href="&enbase;/security/advisories.html" title="更多安全公告">更多安全公告</a>
 				  </li>
 				  <li class="last-child">
-					<a href="&base;/security/rss.xml" title="安全公告 RSS Feed"><img class="rssimage" src="&enbase;/layout/images/ico_rss.png" width="27" height="12" alt="安全公告 RSS Feed" /></a>
+					<a href="&enbase;/security/rss.xml" title="安全公告 RSS Feed"><img class="rssimage" src="&enbase;/layout/images/ico_rss.png" width="27" height="12" alt="安全公告 RSS Feed" /></a>
 				  </li>
 				</ul>
 			  </div> <!-- unnamed -->
@@ -276,7 +276,7 @@
 			  <div>
 				<ul class="newseventslist">
 				  <li class="first-child">
-				    <a href="&enbase;/security/notices.html" title="更多勘误公告">更多</a>
+				    <a href="&enbase;/security/notices.html" title="更多勘误公告">更多勘误公告</a>
 				  </li>
 				  <li class="last-child">
 				    <a href="&enbase;/security/errata.xml" title="勘误公告 RSS Feed"><img class="rssimage" src="&enbase;/layout/images/ico_rss.png" width="27" height="12" alt="勘误公告 RSS Feed" /></a>
