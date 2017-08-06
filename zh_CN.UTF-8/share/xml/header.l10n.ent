@@ -18,7 +18,7 @@
   <a href="&base;/copyright/">法律信息</a> | &copy; 1995&ndash;2017 FreeBSD 项目。
   保留所有权利。</span>'>
 <!ENTITY email 'freebsd-questions'>
-<!ENTITY author '<a href="&base;/index.html">首页</a> &nbsp; | &nbsp; <a href="&base;/mailto.html">联系</a> &nbsp; | &nbsp; <a href="&base;/copyright/index.html">版权</a> &nbsp; | &nbsp; &copyright;'>
+<!ENTITY author '<a href="&base;/index.html">主页</a> &nbsp; | &nbsp; <a href="&base;/mailto.html">联系</a> &nbsp; | &nbsp; <a href="&base;/copyright/index.html">版权</a> &nbsp; | &nbsp; &copyright;'>
 <!ENTITY home '<a href="&base;/index.html"><img src="&enbase;/gifs/home.gif"
   alt="FreeBSD 首页" border="0" align="right" width="101" height="33"></a>'>
 <!ENTITY stylesheet '&enbase;/layout/css/fixed.css?20130112'>
