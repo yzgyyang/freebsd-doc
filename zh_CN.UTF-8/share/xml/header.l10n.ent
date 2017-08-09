@@ -2,16 +2,16 @@
 <!-- $FreeBSD$ -->
 
 <!-- The FreeBSD Simplified Chinese Documentation Project -->
-<!-- Original revision: www/share/xml/header.ent,v 1.6 -->
+<!-- Original revision: r49777 -->
 
 
 <!ENTITY copyright '<span xmlns="http://www.w3.org/1999/xhtml"><a href="&base;/search/index-site.html">站点地图</a> |
-  <a href="&base;/copyright/">版权信息</a> | &copy; 1995&ndash;2017 FreeBSD 项目。
+  <a href="&base;/copyright/">法律信息</a> | &copy; 1995&ndash;2017 FreeBSD 项目。
   保留所有权利。</span>'>
 <!ENTITY email 'freebsd-questions'>
 <!ENTITY author '<a href="&base;/index.html">主页</a> &nbsp; | &nbsp; <a href="&base;/mailto.html">联系</a> &nbsp; | &nbsp; <a href="&base;/copyright/index.html">版权</a> &nbsp; | &nbsp; &copyright;'>
 <!ENTITY home '<a href="&base;/index.html"><img src="&enbase;/gifs/home.gif"
-  alt="FreeBSD 首页" border="0" align="right" width="101" height="33"></a>'>
+  alt="FreeBSD 主页" border="0" align="right" width="101" height="33"></a>'>
 
 <!ENTITY header2.word.search '搜索'>
 <!ENTITY header2.word.donate '捐赠'>
