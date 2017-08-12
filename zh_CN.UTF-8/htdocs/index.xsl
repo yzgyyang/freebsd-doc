@@ -37,15 +37,14 @@
 
 		<div id="frontfeatureleft">
 			<div id="frontfeaturecontent">
-				<h1> &os; 项目</h1>
+				<h1>&os; 项目</h1>
 
-				<p>&os; 是一个使用于现代服务器，桌面与嵌入式 <a href="&base;/platforms/">平台</a> 的先进操作系统。
+				<p>&os; 是一个适用于现代服务器，桌面与嵌入式 <a href="&base;/platforms/">平台</a> 的先进操作系统。
 				  由一个庞大的
 				  <a
 				  href="&enbase;/doc/en_US.ISO8859-1/articles/contributors/staff-committers.html">开发人员团队</a>
 				持续开发超过三十年。
-				&os; 先进的网络、安全性和存储方面的特色使得
-				  它成为许多
+				&os; 先进的网络、安全性和存储方面的特色使得它成为许多
 				  <a href="&enbase;/doc/zh_CN.UTF-8/books/handbook/nutshell.html#introduction-nutshell-users">大型网站</a>
 			以及最普遍的嵌入式网络与存储设备的平台选择。 </p>
 
@@ -141,13 +140,13 @@
 					  <a href="&enbase;/community/mailinglists.html" title="邮件列表">邮件列表</a>
 					</li>
 					<li>
-					  <a href="&enbase;/support/bugreports.html" title="Reporting Problems">问题报告</a>
+					  <a href="&enbase;/support/bugreports.html" title="问题报告">问题报告</a>
 					</li>
 					<li>
-					  <a href="&enbase;/doc/en_US.ISO8859-1/books/faq/index.html" title="FAQ">常见问题解答</a>
+					  <a href="&enbase;/doc/en_US.ISO8859-1/books/faq/index.html" title="常见问题解答">常见问题解答</a>
 					</li>
 					<li>
-					  <a href="&enbase;/doc/zh_CN.UTF-8/books/handbook/index.html" title="Handbook">使用手册</a>
+					  <a href="&enbase;/doc/zh_CN.UTF-8/books/handbook/index.html" title="使用手册">使用手册</a>
 					</li>
 					<li>
 					  <a href="&enbase;/ports/index.html" title="Ports">Ports</a>
@@ -255,10 +254,10 @@
 			  <div>
 				<ul class="newseventslist">
 				  <li class="first-child">
-					<a href="&enbase;/security/advisories.html" title="更多安全公告">更多</a>
+					<a href="&enbase;/security/advisories.html" title="更多安全公告">更多安全公告</a>
 				  </li>
 				  <li class="last-child">
-					<a href="&base;/security/rss.xml" title="安全公告 RSS Feed"><img class="rssimage" src="&enbase;/layout/images/ico_rss.png" width="27" height="12" alt="安全公告 RSS Feed" /></a>
+					<a href="&enbase;/security/rss.xml" title="安全公告 RSS Feed"><img class="rssimage" src="&enbase;/layout/images/ico_rss.png" width="27" height="12" alt="安全公告 RSS Feed" /></a>
 				  </li>
 				</ul>
 			  </div> <!-- unnamed -->
@@ -276,7 +275,7 @@
 			  <div>
 				<ul class="newseventslist">
 				  <li class="first-child">
-				    <a href="&enbase;/security/notices.html" title="更多勘误公告">更多</a>
+				    <a href="&enbase;/security/notices.html" title="更多勘误公告">更多勘误公告</a>
 				  </li>
 				  <li class="last-child">
 				    <a href="&enbase;/security/errata.xml" title="勘误公告 RSS Feed"><img class="rssimage" src="&enbase;/layout/images/ico_rss.png" width="27" height="12" alt="勘误公告 RSS Feed" /></a>
