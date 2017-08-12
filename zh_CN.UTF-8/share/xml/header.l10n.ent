@@ -1,41 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- $FreeBSD$ -->
 
-<!-- FreeBSD HTML Header L10N Entities -->
-<!-- PUBLIC "-//FreeBSD//ENTITIES HTML FreeBSD Header L10N Entities//EN" -->
-
 <!-- The FreeBSD Simplified Chinese Documentation Project -->
 <!-- Original revision: r49777 -->
 
-<!-- Images -->
-<!ENTITY i.daemon '<img xmlns="http://www.w3.org/1999/xhtml" src="&enbase;/gifs/daemon.gif" alt="" align="left"  width="80" height="76"/>'>
-<!ENTITY i.new '<img xmlns="http://www.w3.org/1999/xhtml" src="&enbase;/gifs/new.gif" alt="[New!]" width="28" height="11"/>'>
 
-<!-- Components making up the standard headers and footers. -->
-<!-- Override in the prolog <em>before</em> including this  -->
-<!-- file if necessary.                                      -->
 <!ENTITY copyright '<span xmlns="http://www.w3.org/1999/xhtml"><a href="&base;/search/index-site.html">站点地图</a> |
   <a href="&base;/copyright/">法律信息</a> | &copy; 1995&ndash;2017 FreeBSD 项目。
   保留所有权利。</span>'>
 <!ENTITY email 'freebsd-questions'>
 <!ENTITY author '<a href="&base;/index.html">主页</a> &nbsp; | &nbsp; <a href="&base;/mailto.html">联系</a> &nbsp; | &nbsp; <a href="&base;/copyright/index.html">版权</a> &nbsp; | &nbsp; &copyright;'>
 <!ENTITY home '<a href="&base;/index.html"><img src="&enbase;/gifs/home.gif"
-  alt="FreeBSD 首页" border="0" align="right" width="101" height="33"></a>'>
-<!ENTITY stylesheet '&enbase;/layout/css/fixed.css?20130112'>
-
-<!-- Standard headers and footers -->
-
-<![%html.header.script.google;[
-<!ENTITY header1.googlejs '<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" src="&enbase;/layout/js/google.js"></script>'>
-]]>
-<!ENTITY header1.googlejs ''>
-
-<!ENTITY header2.logo-red.label '<h2 xmlns="http://www.w3.org/1999/xhtml" class="blockhide">Header And Logo</h2>'>
-<!ENTITY lastmod 'Last modified: '>
-<!ENTITY header2.logo-red '
-<a xmlns="http://www.w3.org/1999/xhtml" href="&base;" title="FreeBSD"><img src="&enbase;/layout/images/logo-red.png"
-				      width="457" height="75" alt="FreeBSD" /></a>
-'>
+  alt="FreeBSD 主页" border="0" align="right" width="101" height="33"></a>'>
 
 <!ENTITY header2.word.search '搜索'>
 <!ENTITY header2.word.donate '捐赠'>
@@ -52,40 +28,11 @@
   </div>
 '>
 
-<!-- Legacy until translations catch up -->
-<!ENTITY header2.searchinputs '
-	<div xmlns="http://www.w3.org/1999/xhtml">
-            <input type="hidden" name="max" value="25" />
-            <input type="hidden" name="source" value="www" />
-            <input id="words" name="words" type="text" size="20"
-                   maxlength="255"
-                   onfocus="if( this.value==this.defaultValue ) this.value=&#39;&#39;;"
-                   value="&header2.word.search;" /><![CDATA[ ]]>
-	    <span>&nbsp;</span>
-            <input id="submit" name="submit" type="submit" value="&header2.word.search;" />
-	</div>
-'>
 
-<!ENTITY header2.searchbox '
-  <div id="search" xmlns="http://www.w3.org/1999/xhtml">
-    <form method="get" id="search" action="https://duckduckgo.com/">
-      <h2 class="blockhide"><label for="words">&header2.word.search;</label></h2>
-      <input type="hidden" name="sites" value="www.FreeBSD.org,docs.FreeBSD.org,lists.FreeBSD.org,wiki.FreeBSD.org,forums.FreeBSD.org" />
-      <input type="hidden" name="ka" value="v" />
-      <input type="hidden" name="kt" value="v" />
-      <input type="hidden" name="kh" value="1" />
-      <input type="hidden" name="kj" value="r2" />
-      <input id="words" name="q" type="text" size="20"
-        maxlength="255"
-        onfocus="if( this.value==this.defaultValue ) this.value=&#39;&#39;;"
-        value="&header2.word.search;" />
-      <span>&nbsp;</span>
-      <input id="submit" name="submit" type="submit" value="&header2.word.search;" />
-    </form>
-  </div> <!-- SEARCH -->
-'>
 
-<!ENTITY header2.topnav.label '<h2 xmlns="http://www.w3.org/1999/xhtml" class="blockhide">Site Navigation</h2>'>
+<!ENTITY stylesheet '&enbase;/layout/css/fixed.css'>
+<!ENTITY stylesheetlarge '&enbase;/layout/css/fixed_large.css'>
+<!ENTITY nav ''>
 
 <!ENTITY header2.topnav '
   <div xmlns="http://www.w3.org/1999/xhtml" id="menu">
@@ -165,50 +112,6 @@
     </ul>
   </div> <!-- MENU -->
   '>
-
-<!ENTITY header2.searchnav.label '<h2 xmlns="http://www.w3.org/1999/xhtml" class="blockhide">Peripheral Links</h2>'>
-
-<!ENTITY header2.searchnav '
-      <div xmlns="http://www.w3.org/1999/xhtml" id="searchnav">
-        <ul id="searchnavlist">
-	  <!--<li><a href="&base;/donations/" title="&header2.word.donate;">&header2.word.donate;</a></li>-->
-
-	  <!--<li class="last-child"><a href="&base;/mailto.html" title="&header2.word.contact;">&header2.word.contact;</a></li>-->
-        </ul>
-      </div> <!-- SEARCHNAV -->
-'>
-
-<!ENTITY header2.skipnav '
-<span xmlns="http://www.w3.org/1999/xhtml" class="txtoffscreen">
-  <a href="#content" title="Skip site navigation" accesskey="1">Skip site navigation</a> (1)
-  <a href="#contentwrap" title="Skip section navigation" accesskey="2">Skip section navigation</a> (2)
-</span>'>
-
-<!ENTITY header2 '
-&header2.skipnav;
-
-<div xmlns="http://www.w3.org/1999/xhtml" id="headercontainer">
-  <div id="header">
-    &header2.logo-red.label;
-
-    <div id="headerlogoleft">
-      &header2.logo-red;
-    </div> <!-- HEADERLOGOLEFT -->
-
-    <div id="headerlogoright">
-      &header2.donatebutton;
-      &header2.searchnav.label;
-      &header2.searchnav;
-      &header2.searchbox;
-    </div> <!-- HEADERLOGORIGHT -->
-  </div> <!-- HEADER -->
-
-  &header2.topnav.label;
-  &header2.topnav;
-</div> <!-- HEADERCONTAINER -->
-'>
-
-<!ENTITY lastmod '最后更新于: '>
 
 <!-- macro for webbuild paper -->
 <!ENTITY webbuild '
